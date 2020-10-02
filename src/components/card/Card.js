@@ -7,7 +7,7 @@ import Avatar from '../Avatar/Avatar';
 import Buttoncomponent from '../Button/Button';
 
 import {
-    Title, CardMeetup, CardMeetup2
+     CardMeetup, CardMeetup2
 }  from './card.style';
 
 
